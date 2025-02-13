@@ -1,0 +1,19 @@
+{
+  "name": "fileshare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ajax": "^0.0.4",
+    "emit": "^0.0.2",
+    "express": "^4.21.2",
+    "socket": "^0.14.40",
+    "socket.io": "^4.8.1"
+  }
+}
